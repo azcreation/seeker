@@ -16,3 +16,5 @@ chmod 777 template/nearyou/php/info.txt
 chmod 777 template/nearyou/php/result.txt
 echo
 echo '[!] Installed.'
+ls
+storage seeker locator
